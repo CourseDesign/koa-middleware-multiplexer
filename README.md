@@ -1,6 +1,6 @@
 # Koa Middleware Multiplexer
 
-![](https://img.shields.io/npm/dm/koa-params-extractor.png?style=flat-square)
+![](https://img.shields.io/npm/dm/koa-middleware-multiplexer.png?style=flat-square)
 
 **Multiplex Koa's middleware.**
 
