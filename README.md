@@ -33,7 +33,7 @@ router.post('/user', multiplexer.multiplex(
 ### multiplex
 
 ```js
-function multiplex(condition, functions, errorHandler = errorHandel)
+function multiplex(condition, functions, options = { errorHandler, checkExist: false })
 ```
 
 ​    
